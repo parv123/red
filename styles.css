@@ -1,0 +1,68 @@
+table,tr,td{
+	border: 1px solid;
+}
+h1{
+	background-color: rgba(126,192,238,0.5);text-align: center; color: white;font-family: helvetica;
+    font-size: 3em; margin-top:50px; margin-left:150px; margin-right: 150px;padding: 5px;padding-left: 50px;
+}
+fieldset {
+	text-align: center;
+	margin-right: 150px;
+	margin-left: 150px;
+	padding: 10px;
+	border-radius: 10px;
+	color: white;
+	
+}
+
+	
+}
+input{
+	float:right;
+	margin-right:70px;
+	width:150px;
+}
+input:invalid{
+	background-color: black;
+	
+}
+input:valid{
+	background-color:white;
+	
+}
+img{
+	margin-left: 150px;
+
+	margin-bottom: 600px;
+}
+legend{background-color: rgba(00,00,00,0.5);text-align: center; color: white;font-family: helvetica;
+     margin-top:50px; padding: 5px;font-size: 1.5em;}
+ .btn{
+		 border:10;
+		 color: light blue;
+		 padding: 14px 28px;
+		 cursor: pointer;
+	 }
+.info {
+	background-color:#2196f3;
+}
+.info:hover{
+	background: #0b7dda
+}	
+.topnav input[type=text]{
+	float:center;
+	padding:6px;
+	border: 1px solid #ccc;
+	margin-top:8px;
+	margin-right:16px;
+	font-size:27px;
+	margin-bottom:90px;
+}
+ .text-center input {
+    padding: 6px;
+    margin: 20px;
+    border: 2px solid blue;
+    border-radius: 6px;
+    font-weight: bolder;
+    font-size: 20px;
+}
